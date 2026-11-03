@@ -10,3 +10,8 @@
 ## Descripción general
 
 Base subterránea de la Legión, construida por Lex Luthor y equipada con tecnología avanzada. Sirve como centro de operaciones y almacenamiento de recursos estratégicos. La base está diseñada para resistir ataques externos y mantener la seguridad de sus ocupantes.
+
+## Coordenadas
+
+- Latitud: 39.7392 N
+- Longitud: 104.9903 W
