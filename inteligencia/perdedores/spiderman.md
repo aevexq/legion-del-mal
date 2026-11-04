@@ -13,7 +13,6 @@ Spiderman es un superhéroe ficticio creado por el escritor Stan Lee y el dibuja
 - J. Jonah Jameson: Editor del Daily Bugle, conocido por su constante campaña en contra de Spiderman, a quien considera una amenaza para la ciudad.
 - Aunt May: La tía de Peter Parker, quien lo crió y siempre ha sido un pilar de apoyo en su vida.
 
-
 ## Peliculas
 
 - Spider-Man (2002): Dirigida por Sam Raimi, protagonizada por Tobey Maguire.
@@ -21,3 +20,4 @@ Spiderman es un superhéroe ficticio creado por el escritor Stan Lee y el dibuja
 - Spider-Man: Homecoming (2017): Dirigida por Jon Watts, protagonizada por Tom Holland.
 - Spider-Man: Into the Spider-Verse (2018): Película animada que explora el multiverso de Spiderman, ganadora del Oscar a Mejor Película de Animación.
 - Spider-Man: No Way Home (2021): Dirigida por Jon Watts, protagonizada por Tom Holland, que reúne a varios Spidermen de diferentes universos.
+- Aunt May: La tía de Peter Parker, quien lo crió y siempre ha sido un pilar de apoyo en su vida.
